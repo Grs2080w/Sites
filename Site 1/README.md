@@ -7,7 +7,7 @@
 
 Quer ver mais, use o Link abaixo!
 
-      https://grs2080w.github.io/Site_1/
+      https://grs2080w.github.io/Sites/Site%201/
 
 Site do Curso em Vídeo: 
 
