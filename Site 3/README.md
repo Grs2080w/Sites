@@ -3,7 +3,8 @@
 Site de Portifólio de Redes Sociais, contendo links externos, iframes e etc.
 
 # Preview
-![image](https://github.com/user-attachments/assets/a4140f5d-4459-47da-ab5c-afb72051e662)
+![image](https://github.com/user-attachments/assets/d41bc9ad-087c-450b-a16c-d2bad721a0c4)
+
 
 Gostou? Clique no link abaixo para ver mais:
 
