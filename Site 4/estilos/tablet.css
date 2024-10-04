@@ -11,13 +11,12 @@
     body {
         background:black linear-gradient(80deg, blue, purple) fixed center center;
         background-size: cover;
-    
     }
     
     main {
         background-color: white;
         
-        transition-duration: 0.2s;
+        transition-duration: 0.7s;
 
         width: 500px;
         max-width: 600px;
@@ -42,14 +41,13 @@
     
     form {
         text-align: center;
+        transition-duration: 0s;
     }
     
     #iemail {
         height: 60px;
         width: 450px;
         
-        transition:width 0.2s, height 0.2s;
-
         border-radius: 15px;
         margin-bottom: 10px;
         padding-left: 10px;
@@ -64,8 +62,6 @@
     #isenha {
         height: 60px;
         width: 450px;
-
-        transition-duration: 0.2s;
     
         border-radius: 15px;
         margin-bottom: 10px;
@@ -84,8 +80,6 @@
         background-color: #0056f5;
         border-color: #1E63E0;
         color: white;
-
-        transition-duration: 0.2s;
     
         height: 60px;
         width: 465px;
@@ -105,8 +99,6 @@
     #esuqsen {
         height: 60px;
         width: 465px;
-
-        transition-duration: 0.2s;
     
         border-radius: 10px;
         margin-bottom: 10px;
@@ -123,6 +115,4 @@
         border-color: #3ea2f9;
         color: white;
     }
-
-
 }
