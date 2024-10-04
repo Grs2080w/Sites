@@ -17,7 +17,7 @@
     /* linear-gradient(50deg, pink, yellow) */
 
     body {
-        background:black linear-gradient(80deg, blue, purple) fixed center center no-repeat ;
+        background:black linear-gradient(50deg, pink, yellow) fixed center center no-repeat ;
         background-size: cover;
     }
     
