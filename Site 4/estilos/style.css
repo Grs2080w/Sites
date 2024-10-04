@@ -23,9 +23,10 @@
     main {
         background-color: white;
         
-        height: 650px;
+        height: 700px;
+        width: 300px;
         max-width: 375px;
-        min-width: 340px;
+        min-width: 300px;
 
         transition-duration: 0.2s;
 
@@ -53,7 +54,7 @@
 
     #iemail {
         height: 60px;
-        width: 340px;
+        width: 290px;
 
         transition-duration: 0.2s;
 
@@ -70,7 +71,7 @@
 
     #isenha {
         height: 60px;
-        width: 340px;
+        width: 290px;
 
         transition-duration: 0.2s;
 
@@ -95,7 +96,7 @@
         transition-duration: 0.2s;
 
         height: 60px;
-        width: 355px;
+        width: 305px;
 
         border-radius: 10px;
         margin-bottom: 10px;
@@ -111,7 +112,7 @@
 
     #esuqsen {
         height: 60px;
-        width: 355px;
+        width: 305px;
 
         transition-duration: 0.2s;
 
