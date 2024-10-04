@@ -19,9 +19,9 @@
                 
                 <div id="Formulário">
                     <form action="login.php" method="post">
-                        <input type="email" name="email"    id="iemail" placeholder="Seu Email"> <br>
-                        <input type="password" name="senha"     id="isenha"  placeholder="Sua Senha"> <br>
-                        <input type="submit" value="Entrar"     id="entrar"> <br>
+                        <input type="email" name="email" id="iemail" placeholder="Seu Email" required autocomplete="email" > <br>
+                        <input type="password" name="senha" id="isenha"  placeholder="Sua Senha" required minlength="8" autocomplete="current-password"> <br>
+                        <input type="submit" value="Entrar" id="entrar"> <br>
                         <input type="submit" value="Esqueci a Senha" id="esuqsen">
                     </form>
                 </div>
