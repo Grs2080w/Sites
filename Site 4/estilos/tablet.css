@@ -9,7 +9,7 @@
     }
     
     body {
-        background:black linear-gradient(50deg, pink, yellow) fixed center center;
+        background:black linear-gradient(80deg, blue, purple) fixed center center;
         background-size: cover;
     
     }
